@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cocktailapp-react.js/static/css/main.c2cab247.css",
+    "main.js": "/cocktailapp-react.js/static/js/main.7926adfc.js",
+    "index.html": "/cocktailapp-react.js/index.html",
+    "main.c2cab247.css.map": "/cocktailapp-react.js/static/css/main.c2cab247.css.map",
+    "main.7926adfc.js.map": "/cocktailapp-react.js/static/js/main.7926adfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.7926adfc.js"
+  ]
+}
